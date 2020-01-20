@@ -42,7 +42,7 @@
         
         <script>
             alert('<?php echo $msg; ?>');
-            //location.href="index.php";
+            location.href="index.php";
         </script>
     </body>
 </html>
